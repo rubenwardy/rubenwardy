@@ -9,4 +9,4 @@ I've recently been spending a lot of time learning how to cook new things ğŸğŸ
 
 Note that I mostly use [GitLab](https://gitlab.com/rubenwardy/) these days.
 
-Make sure to take a look at my [website](https://rubenwardy.com/), [blog](https://blog.rubenwardy.com), or [Twitter](https://twitter.com/rubenwardy)!
+Make sure to take a look at my [website](https://rubenwardy.com/), [blog](https://blog.rubenwardy.com), or [Mastodon](https://fosstodon.org/@rubenwardy)!
