@@ -10,6 +10,6 @@ Make sure to take a look at my [website](https://rubenwardy.com/), [blog](https:
 
 This account is just for contributing to projects on GitHub.
 
-Find my open source projects are on [Codeberg](https://codeberg.org).
+Find my open source projects on [Codeberg](https://codeberg.org).
 
 Or take a look at [my website](https://rubenwardy.com) for my portfolio and writeups.
