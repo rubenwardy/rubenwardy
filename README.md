@@ -6,7 +6,7 @@ I have a diverse range of interests, both technical and non-technical. Some exam
 
 Make sure to take a look at my [website](https://rubenwardy.com/), [blog](https://blog.rubenwardy.com), or [Mastodon](https://fosstodon.org/@rubenwardy)!
 
-## My code isn't on GitHub
+### My code isn't on GitHub
 
 This account is just for contributing to projects on GitHub.
 
